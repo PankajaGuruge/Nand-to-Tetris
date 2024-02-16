@@ -11,10 +11,13 @@ This project-centered course provides a unique opportunity to understand how com
 This repository contains all the materials you need to complete the course, including:
 
 - **Project assignments**: Hands-on exercises to reinforce your learning.
-  [Project_Tasks](https://github.com/pankajaguruge/project_files)
+  [Project_Tasks](https://github.com/PankajaGuruge/Nand-to-Tetris/tree/main/Project_Tasks)
   
 - **Example code**: Sample implementations to help you understand concepts better.
+  [Project_Files](https://github.com/PankajaGuruge/Nand-to-Tetris/tree/main/Project_Files)
+  
 - **Additional resources**: Supplementary materials to deepen your understanding.
+  [Additional_Files](https://github.com/PankajaGuruge/Nand-to-Tetris/tree/main/Additional_Files)
 
 ## Getting Started
 
