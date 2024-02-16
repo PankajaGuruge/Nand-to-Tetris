@@ -1,4 +1,4 @@
-# Build a Modern Computer from First Principles: From Nand to Tetris
+# Build a Modern Computer from First Principles: From Nand to Tetris (Part I)
 
 Welcome to the repository for the "Build a Modern Computer from First Principles: From Nand to Tetris" project-centered course. This course is an exciting journey that takes you from the basics of logic gates all the way to building a fully functional computer system, including software. 
 
@@ -10,8 +10,9 @@ This project-centered course provides a unique opportunity to understand how com
 
 This repository contains all the materials you need to complete the course, including:
 
-- **Lecture slides**: Detailed presentations to guide you through each module.
 - **Project assignments**: Hands-on exercises to reinforce your learning.
+  [Project_Tasks](https://github.com/pankajaguruge/project_files)
+  
 - **Example code**: Sample implementations to help you understand concepts better.
 - **Additional resources**: Supplementary materials to deepen your understanding.
 
@@ -47,4 +48,10 @@ Licensed under the [MIT License](LICENSE).
 
 I'm enjoy learning how to build a modern computer from first principles. Hope you will dive in, explore, and have fun on this fascinating journey through the heart of computing!
 
+You can follow this course on Coursera:
 
+[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) 
+
+You can access the course materials and helping documents from their website:
+
+[Nand to Tetris Webssite](https://www.nand2tetris.org/) 
