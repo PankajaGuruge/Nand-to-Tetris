@@ -7,7 +7,10 @@ Welcome to the repository for the "Build a Modern Computer from First Principles
 This project-centered course provides a unique opportunity to understand how computers work from the ground up. Beginning with basic logic gates and gradually progressing to more complex components, you will learn to design and implement each part of a computer system. By the end of the course, you will have built a computer capable of running simple programs.
 
 ## Course Architecture
-![Course Hierarchy](https://github.com/pankajaguruge/tictactoe-game/blob/main/ScreenShots/Hierarchy.png)
+
+Following image shows the course architecture.
+In the first part of the course it develops the Hardware platform part and in the second part of the project develops the software hierarchy.
+![Course Hierarchy](https://github.com/pankajaguruge/Nand-to-Tetris_Hardware/blob/main/ScreenShots/Hierarchy.png)
 
 ## Contents
 
