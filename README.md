@@ -6,6 +6,9 @@ Welcome to the repository for the "Build a Modern Computer from First Principles
 
 This project-centered course provides a unique opportunity to understand how computers work from the ground up. Beginning with basic logic gates and gradually progressing to more complex components, you will learn to design and implement each part of a computer system. By the end of the course, you will have built a computer capable of running simple programs.
 
+## Course Architecture
+![Course Hierarchy](https://github.com/pankajaguruge/tictactoe-game/blob/main/ScreenShots/Hierarchy.png)
+
 ## Contents
 
 This repository contains all the materials you need to complete the course, including:
@@ -31,6 +34,24 @@ The course is divided into several modules, each focusing on a specific aspect o
 
 Contributions to this repository are welcome! If you find any errors or have suggestions for improvement, feel free to submit a pull request or open an issue.
 
+## Important Links
+
+You can follow this course on Coursera:
+
+[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) 
+
+You can access the course materials and helping documents from their website:
+
+[Nand to Tetris Webssite](https://www.nand2tetris.org/) 
+
+You can download the Nand2Tetris Softaware tools from following link:
+
+[Nand to Tetris Software](https://www.nand2tetris.org/software)
+
+** To run the software you have to install java compiler.
+
+[Java Compiler](https://www.java.com/en/download)
+
 ## Support
 
 If you encounter any difficulties while working through the course, don't hesitate to reach out for support. You can use the discussion forums provided on the course platform or contact the course instructors directly.
@@ -51,10 +72,4 @@ Licensed under the [MIT License](LICENSE).
 
 I'm enjoy learning how to build a modern computer from first principles. Hope you will dive in, explore, and have fun on this fascinating journey through the heart of computing!
 
-You can follow this course on Coursera:
 
-[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) 
-
-You can access the course materials and helping documents from their website:
-
-[Nand to Tetris Webssite](https://www.nand2tetris.org/) 
